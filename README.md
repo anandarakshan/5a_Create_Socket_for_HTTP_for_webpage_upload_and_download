@@ -1,6 +1,6 @@
 # 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
-## NAME : VIGNESH R
-## REGISTER NUMBER : 212223240177
+## NAME : ANANDA RAKSHAN K V
+## REGISTER NUMBER : 212223230014
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
